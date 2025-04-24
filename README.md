@@ -1,18 +1,65 @@
 # RUTA DEL CAFÉ
 Una cafetería moderna que celebra el café peruano de especialidad, fusionando sabores locales con una experiencia acogedora. Este repositorio alberga el sitio web oficial de La Ruta del Café.
 
-<meta name="keywords" content="cafetería, café peruano, café de especialidad, Tingo María, café local">
-<link rel="icon" href="favicon.ico">
-</head>
-<html lang="es">
-  
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La Ruta del Café</title>
+  <meta name="description" content="Cafetería moderna que celebra el café peruano de especialidad en Tingo María.">
+  <meta name="keywords" content="cafetería, café peruano, café especialidad, Tingo María, repostería artesanal">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #fffaf4;
+      color: #4b382a;
+    }
+    header {
+      background-color: #c9a27e;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.8rem;
+    }
+    section {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+      text-align: center;
+    }
+    .cta {
+      background-color: #4b382a;
+      color: white;
+      padding: 1rem 2rem;
+      display: inline-block;
+      text-decoration: none;
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+    .products {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+    .product {
+      background: #f8eadd;
+      padding: 1rem;
+      border-radius: 10px;
+    }
+    footer {
+      background-color: #d7c1aa;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      margin-top: 2rem;
+    }
+  </style>
 </head>
 <body>
-<!DOCTYPE html>
-
 
   <header>
     <h1>La Ruta del Café</h1>
