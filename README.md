@@ -3,13 +3,16 @@ Una cafetería moderna que celebra el café peruano de especialidad, fusionando 
 
 <meta name="keywords" content="cafetería, café peruano, café de especialidad, Tingo María, café local">
 <link rel="icon" href="favicon.ico">
-<head>
+</head>
 <html lang="es">
+  
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
+<!DOCTYPE html>
+
 
   <header>
     <h1>La Ruta del Café</h1>
