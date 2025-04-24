@@ -3,7 +3,7 @@ Una cafetería moderna que celebra el café peruano de especialidad, fusionando 
 
 <meta name="keywords" content="cafetería, café peruano, café de especialidad, Tingo María, café local">
 <link rel="icon" href="favicon.ico">
-
+<head>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
